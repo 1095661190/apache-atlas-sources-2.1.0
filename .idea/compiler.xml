@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hbase-testing-util" />
+        <module name="atlas-client-common" />
+        <module name="atlas-testtools" />
+        <module name="impala-bridge-shim" />
+        <module name="atlas-dashboardv3" />
+        <module name="atlas-repository" />
+        <module name="atlas-webapp" />
+        <module name="falcon-bridge" />
+        <module name="atlas-graphdb-api" />
+        <module name="hive-bridge" />
+        <module name="atlas-server-api" />
+        <module name="atlas-docs" />
+        <module name="sqoop-bridge" />
+        <module name="atlas-authorization" />
+        <module name="atlas-intg" />
+        <module name="hbase-bridge-shim" />
+        <module name="atlas-common" />
+        <module name="storm-bridge-shim" />
+        <module name="hive-bridge-shim" />
+        <module name="kafka-bridge" />
+        <module name="sqoop-bridge-shim" />
+        <module name="storm-bridge" />
+        <module name="atlas-plugin-classloader" />
+        <module name="impala-hook-api" />
+        <module name="atlas-distro" />
+        <module name="atlas-classification-updater" />
+        <module name="atlas-graphdb-common" />
+        <module name="falcon-bridge-shim" />
+        <module name="atlas-janusgraph-hbase2" />
+        <module name="atlas-client-v2" />
+        <module name="atlas-client-v1" />
+        <module name="impala-bridge" />
+        <module name="atlas-graphdb-janus" />
+        <module name="hbase-bridge" />
+        <module name="atlas-dashboardv2" />
+        <module name="atlas-buildtools" />
+        <module name="atlas-notification" />
+        <module name="hdfs-model" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="apache-atlas-sources-2.1.0" target="1.5" />
+      <module name="atlas-authorization" target="1.8" />
+      <module name="atlas-buildtools" target="1.5" />
+      <module name="atlas-classification-updater" target="1.8" />
+      <module name="atlas-client" target="1.5" />
+      <module name="atlas-client-common" target="1.8" />
+      <module name="atlas-client-v1" target="1.8" />
+      <module name="atlas-client-v2" target="1.8" />
+      <module name="atlas-common" target="1.8" />
+      <module name="atlas-dashboardv2" target="1.8" />
+      <module name="atlas-dashboardv3" target="1.8" />
+      <module name="atlas-distro" target="1.8" />
+      <module name="atlas-docs" target="1.8" />
+      <module name="atlas-graphdb" target="1.5" />
+      <module name="atlas-graphdb-api" target="1.8" />
+      <module name="atlas-graphdb-common" target="1.8" />
+      <module name="atlas-graphdb-impls" target="1.5" />
+      <module name="atlas-graphdb-janus" target="1.8" />
+      <module name="atlas-intg" target="1.8" />
+      <module name="atlas-janusgraph-hbase2" target="1.8" />
+      <module name="atlas-notification" target="1.8" />
+      <module name="atlas-plugin-classloader" target="1.8" />
+      <module name="atlas-repository" target="1.8" />
+      <module name="atlas-server-api" target="1.8" />
+      <module name="atlas-testtools" target="1.8" />
+      <module name="atlas-webapp" target="1.8" />
+      <module name="falcon-bridge" target="1.8" />
+      <module name="falcon-bridge-shim" target="1.8" />
+      <module name="hbase-bridge" target="1.8" />
+      <module name="hbase-bridge-shim" target="1.8" />
+      <module name="hbase-testing-util" target="1.8" />
+      <module name="hdfs-model" target="1.8" />
+      <module name="hive-bridge" target="1.8" />
+      <module name="hive-bridge-shim" target="1.8" />
+      <module name="impala-bridge" target="1.8" />
+      <module name="impala-bridge-shim" target="1.8" />
+      <module name="impala-hook-api" target="1.8" />
+      <module name="kafka-bridge" target="1.8" />
+      <module name="sqoop-bridge" target="1.8" />
+      <module name="sqoop-bridge-shim" target="1.8" />
+      <module name="storm-bridge" target="1.8" />
+      <module name="storm-bridge-shim" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

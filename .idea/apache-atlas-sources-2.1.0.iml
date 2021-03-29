@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="CheckStyle-IDEA-Module">
+    <option name="configuration">
+      <map />
+    </option>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/addons/impala-bridge-shim/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/addons/sqoop-bridge/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/graphdb/api/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/addons/impala-bridge/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/addons/falcon-bridge/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/client/client-v1/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/intg/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plugin-classloader/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/graphdb/common/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/server-api/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/client/client-v2/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/repository/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/addons/hive-bridge/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/server-api/src/main/test" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/addons/kafka-bridge/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/addons/impala-hook-api/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/common/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/addons/hive-bridge-shim/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/client/client-v1/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/graphdb/common/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/intg/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/webapp/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tools/classification-updater/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/client/common/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/addons/sqoop-bridge-shim/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/client/client-v2/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/authorization/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/graphdb/janus/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/addons/kafka-bridge/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/webapp/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/addons/hbase-bridge/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/addons/impala-bridge/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/graphdb/janus-hbase2/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/notification/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plugin-classloader/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/addons/hbase-testing-util/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tools/atlas-index-repair/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/addons/falcon-bridge-shim/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/addons/falcon-bridge/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/addons/hive-bridge/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/graphdb/janus/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test-tools/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/addons/sqoop-bridge/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/addons/hbase-bridge/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/addons/hbase-bridge-shim/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/addons/storm-bridge/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/addons/storm-bridge/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/addons/storm-bridge-shim/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/notification/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/repository/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/authorization/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/common/src/main/java" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.21" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-log4j12:1.7.21" level="project" />
+    <orderEntry type="library" name="Maven: log4j:log4j:1.2.17" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:jul-to-slf4j:1.7.21" level="project" />
+    <orderEntry type="library" name="Maven: cglib:cglib:2.2.2" level="project" />
+    <orderEntry type="library" name="Maven: asm:asm:3.3.1" level="project" />
+  </component>
+  <component name="TemplatesService">
+    <option name="TEMPLATE_CONFIGURATION" value="Jinja2" />
+    <option name="TEMPLATE_FOLDERS">
+      <list>
+        <option value="$MODULE_DIR$/docs/target/docz-lib/docz-core/dist/templates" />
+      </list>
+    </option>
+  </component>
+</module>

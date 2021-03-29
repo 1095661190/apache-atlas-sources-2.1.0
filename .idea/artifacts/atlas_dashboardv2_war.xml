@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="atlas-dashboardv2:war">
+    <output-path>$PROJECT_DIR$/dashboardv2/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>atlas-dashboardv2</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="atlas-dashboardv2-2.1.0.war">
+      <element id="artifact" artifact-name="atlas-dashboardv2:war exploded" />
+    </root>
+  </artifact>
+</component>

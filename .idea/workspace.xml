@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f428c83-e40a-4647-b6be-2e15f78c1d15" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../soft/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1fIsIJds15lMHAx4IxDRycNx1rJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/webapp/src/main/java/org/apache/atlas/notification" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.38505748" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.apache.atlas.notification" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test2">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.apache.atlas.notification.Test" />
+      <module name="atlas-webapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.apache.atlas.notification.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.apache.atlas.notification.Test2" />
+      <module name="atlas-webapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.apache.atlas.notification.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestKafkaConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.apache.atlas.notification.TestKafkaConsumer" />
+      <module name="atlas-webapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.apache.atlas.notification.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationPropertiesTest.testGetFileAsInputStream" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="atlas-intg" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.apache.atlas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.apache.atlas" />
+      <option name="MAIN_CLASS_NAME" value="org.apache.atlas.ApplicationPropertiesTest" />
+      <option name="METHOD_NAME" value="testGetFileAsInputStream" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AtlasIT" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="atlas-webapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.apache.atlas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.apache.atlas" />
+      <option name="MAIN_CLASS_NAME" value="org.apache.atlas.AtlasIT" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.TestKafkaConsumer" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="TestNG.ApplicationPropertiesTest.testGetFileAsInputStream" />
+        <item itemvalue="TestNG.AtlasIT" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_LAMBDA,SHOW_PROPERTIES,SHOW_FIELDS" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f428c83-e40a-4647-b6be-2e15f78c1d15" name="Default Changelist" comment="" />
+      <created>1595916859373</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595916859373</updated>
+      <workItem from="1595916861578" duration="17204000" />
+      <workItem from="1597297482450" duration="2570000" />
+      <workItem from="1597300488539" duration="17448000" />
+      <workItem from="1598248371187" duration="5572000" />
+      <workItem from="1598414254623" duration="387000" />
+      <workItem from="1598495402111" duration="1530000" />
+      <workItem from="1598498799974" duration="691000" />
+      <workItem from="1598841978064" duration="186000" />
+      <workItem from="1598916429398" duration="7503000" />
+      <workItem from="1599447233109" duration="16751000" />
+      <workItem from="1599727535023" duration="53383000" />
+      <workItem from="1600423040512" duration="27193000" />
+      <workItem from="1600929018245" duration="7708000" />
+      <workItem from="1600954063541" duration="1028000" />
+      <workItem from="1601003872277" duration="807000" />
+      <workItem from="1608703192710" duration="2209000" />
+      <workItem from="1616671021735" duration="16224000" />
+      <workItem from="1616983199897" duration="10587000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1876" height="119" key="GridCell.Tab.0.bottom" timestamp="1617006123435">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1876" height="119" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1617006123435" />
+    <state width="1876" height="119" key="GridCell.Tab.0.center" timestamp="1617006123434">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1876" height="119" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1617006123434" />
+    <state width="1876" height="119" key="GridCell.Tab.0.left" timestamp="1617006123434">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1876" height="119" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1617006123434" />
+    <state width="1876" height="119" key="GridCell.Tab.0.right" timestamp="1617006123435">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1876" height="119" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1617006123435" />
+    <state x="625" y="259" width="670" height="662" key="search.everywhere.popup" timestamp="1616756705085">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1616728770070" />
+    <state x="625" y="259" width="670" height="662" key="search.everywhere.popup/0.23.1920.1057@0.23.1920.1057" timestamp="1616756705085" />
+  </component>
+</project>
